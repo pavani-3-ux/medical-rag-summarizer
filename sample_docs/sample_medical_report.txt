@@ -1,0 +1,100 @@
+PATIENT MEDICAL REPORT
+Patient ID: MR-2024-001
+Date of Report: 2024-06-15
+Physician: Dr. Sarah Mitchell, MD
+
+PATIENT DEMOGRAPHICS:
+Name: John Anderson
+Age: 58 years
+Gender: Male
+Date of Birth: 1965-11-22
+
+CHIEF COMPLAINT:
+Patient presents with persistent chest discomfort and shortness of breath for the past three weeks.
+
+HISTORY OF PRESENT ILLNESS:
+The patient is a 58-year-old male with a significant medical history who reports experiencing intermittent chest pain, particularly after physical exertion. The pain is described as a dull pressure sensation in the substernal region, radiating to the left arm. Associated symptoms include dyspnea on exertion, fatigue, and occasional palpitations. Symptoms typically resolve with rest over 10-15 minutes.
+
+PAST MEDICAL HISTORY:
+- Hypertension (diagnosed 2010)
+- Type 2 Diabetes Mellitus (diagnosed 2015)
+- Hyperlipidemia (diagnosed 2012)
+- Previous smoking history (quit 2008, 15 pack-years)
+
+VITAL SIGNS:
+Blood Pressure: 158/94 mmHg (elevated)
+Heart Rate: 92 bpm (normal range)
+Respiratory Rate: 20 breaths/min (slightly elevated)
+Temperature: 98.6°F (normal)
+Oxygen Saturation: 96% on room air (normal)
+BMI: 28.5 kg/m² (overweight)
+
+PHYSICAL EXAMINATION:
+General: Alert and oriented, mild distress during exertion
+Cardiovascular: Regular rate and rhythm, no murmurs detected, bilateral pedal pulses intact
+Pulmonary: Clear to auscultation bilaterally, no crackles or wheezes
+Abdominal: Soft, non-tender, no masses palpated
+Extremities: No edema, good perfusion
+
+LABORATORY RESULTS:
+Complete Blood Count:
+- WBC: 7.2 K/uL (normal)
+- Hemoglobin: 14.5 g/dL (normal)
+- Hematocrit: 43% (normal)
+- Platelets: 245 K/uL (normal)
+
+Comprehensive Metabolic Panel:
+- Glucose: 156 mg/dL (elevated, expected given diabetes)
+- BUN: 18 mg/dL (normal)
+- Creatinine: 1.1 mg/dL (normal)
+- Sodium: 138 mEq/L (normal)
+- Potassium: 4.2 mEq/L (normal)
+- Calcium: 9.5 mg/dL (normal)
+
+Lipid Panel:
+- Total Cholesterol: 245 mg/dL (high)
+- LDL Cholesterol: 158 mg/dL (high)
+- HDL Cholesterol: 38 mg/dL (low)
+- Triglycerides: 185 mg/dL (elevated)
+
+Cardiac Markers:
+- Troponin I: 0.02 ng/mL (slightly elevated, needs monitoring)
+- BNP: 185 pg/mL (slightly elevated)
+- CK-MB: 3.2 ng/mL (normal)
+
+ECG FINDINGS:
+Sinus rhythm with ST segment depression in leads V2-V4, concerning for myocardial ischemia. No acute ST elevation noted.
+
+CARDIAC IMAGING:
+Echocardiogram performed today shows mild left ventricular hypertrophy with preserved ejection fraction (52%). No wall motion abnormalities detected at rest. Mild diastolic dysfunction noted.
+
+DIAGNOSIS:
+1. Unstable Angina - concerning cardiac presentation requiring intervention
+2. Essential Hypertension - poorly controlled
+3. Type 2 Diabetes Mellitus - suboptimally controlled
+4. Hyperlipidemia - elevated lipid levels
+5. Obesity - BMI elevated
+
+CURRENT MEDICATIONS:
+1. Lisinopril 10mg daily - for hypertension and cardiac protection
+2. Metoprolol 50mg twice daily - beta-blocker for heart rate control
+3. Metformin 1000mg twice daily - for diabetes management
+4. Atorvastatin 40mg daily - for cholesterol management
+5. Aspirin 81mg daily - antiplatelet therapy
+
+RECOMMENDATIONS:
+1. Urgent cardiology consultation for risk stratification
+2. Consider cardiac catheterization to rule out significant coronary stenosis
+3. Continue current medications with possible dose adjustments pending cardiology evaluation
+4. Implement strict dietary modifications: low sodium, low saturated fat diet
+5. Gradual increase in physical activity as tolerated with cardiac monitoring
+6. Diabetes control optimization: target HbA1c <7%
+7. Blood pressure management: target <130/80 mmHg
+8. Consider adding additional antihypertensive if BP remains elevated
+9. Lifestyle modifications: smoking cessation reinforcement (patient quit previously), weight loss goal of 5-10 lbs
+10. Close follow-up in 1 week with cardiology; contact office immediately if chest pain worsens
+
+PHYSICIAN SIGNATURE:
+Dr. Sarah Mitchell, MD
+Internal Medicine
+License #: IM-456789

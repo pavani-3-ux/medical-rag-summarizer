@@ -1,0 +1,88 @@
+CLINICAL NOTES - PATIENT FOLLOW-UP VISIT
+Date: 2024-06-18
+Time: 2:30 PM
+Physician: Dr. Robert Chen, MD
+Location: Cardiology Clinic, Room 204
+
+PATIENT: John Anderson (ID: MR-2024-001)
+CHIEF COMPLAINT: Follow-up for cardiac workup; patient reports persistent chest discomfort
+
+SUBJECTIVE:
+Patient states that chest discomfort has slightly improved with rest but remains present. He denies new onset shortness of breath at rest but continues to experience dyspnea with minimal exertion. Patient reports good compliance with medications. He has reduced salt intake per recommendations and is attempting dietary modifications. Exercise tolerance remains limited; walks approximately 5 minutes before experiencing discomfort.
+
+REVIEW OF SYSTEMS:
+- Constitutional: Denies fever, chills, or weight loss
+- Cardiovascular: Chest discomfort, palpitations with exertion, denies syncope
+- Respiratory: Dyspnea on exertion, denies orthopnea or paroxysmal nocturnal dyspnea
+- Gastrointestinal: Mild nausea with medications, no vomiting or diarrhea
+- Endocrine: Increased thirst, frequent urination (diabetic symptoms)
+- Neurological: Denies headache, dizziness, focal neurological deficits
+
+OBJECTIVE:
+Vital Signs on Today's Visit:
+Blood Pressure: 152/92 mmHg (still elevated)
+Heart Rate: 88 bpm
+Respiratory Rate: 18 breaths/min
+Temperature: 98.4°F
+Oxygen Saturation: 97% on room air
+Weight: 192 lbs (down 2 lbs from last visit - good sign of compliance)
+
+Physical Examination:
+General: Appears stated age, no acute distress at rest
+Cardiovascular: Regular rate and rhythm, normal S1 and S2, no murmurs, rubs, or gallops
+Pulmonary: Clear to auscultation bilaterally
+Extremities: No peripheral edema, good capillary refill
+
+Cardiac Imaging Results (Stress Test completed 2024-06-17):
+Exercise tolerance: 6 minutes on modified Bruce protocol
+Heart rate response: Appropriate increase to 125 bpm at maximum exertion
+Blood pressure response: Rose appropriately to 168/98 mmHg
+Electrocardiographic changes: ST segment depression of 2mm in leads II, III, aVF, and V4-V5 during exercise, resolved with rest
+Interpretation: POSITIVE for inducible ischemia in the inferior and anterior wall distributions, consistent with multivessel coronary artery disease
+
+Laboratory Results (drawn 2024-06-16):
+HbA1c: 7.8% (above target, diabetes control suboptimal)
+Fasting Glucose: 168 mg/dL (elevated)
+Creatinine: 1.15 mg/dL (stable)
+Lipid Panel: Total cholesterol 228 mg/dL, LDL 142 mg/dL (improved but still high), HDL 40 mg/dL (low), Triglycerides 175 mg/dL
+
+ASSESSMENT:
+1. Unstable Angina with evidence of multivessel CAD on stress testing - high-risk patient
+2. Hypertension - inadequately controlled on current regimen
+3. Type 2 Diabetes - suboptimally controlled with HbA1c 7.8%
+4. Dyslipidemia - persistent despite atorvastatin 40mg
+5. Obesity - BMI 28.8, modest improvement noted
+
+PLAN:
+1. CARDIOLOGY INTERVENTION: Refer for urgent coronary angiography to define coronary anatomy and guide revascularization strategy. Patient understands risks and benefits. Will contact interventional cardiology to arrange within 2-3 days.
+
+2. MEDICATIONS - UPDATED REGIMEN:
+   a) Lisinopril: Increase to 20mg daily for better BP and cardioprotection
+   b) Metoprolol: Continue 50mg twice daily; may increase if angiography shows need
+   c) Atorvastatin: Increase to 80mg daily for more aggressive lipid lowering (high-intensity statin)
+   d) Aspirin: Continue 81mg daily (may add additional antiplatelet after angiography/PCI)
+   e) Metformin: Continue 1000mg twice daily; consider addition of second agent if HbA1c does not improve
+   f) NEW - Sublingual nitroglycerin: Prescribed for acute chest pain; use as needed
+
+3. DIETARY MANAGEMENT:
+   - Continue low sodium diet (<2000mg sodium daily)
+   - Increase fiber intake
+   - Reduce refined carbohydrates to improve diabetes control
+   - Aim for Mediterranean-style diet
+   - Limit alcohol to moderate levels
+
+4. MONITORING:
+   - Daily home blood pressure monitoring; bring log to next visit
+   - Home blood glucose monitoring before meals and at bedtime
+   - Contact clinic if chest pain becomes severe or does not resolve with nitroglycerides
+
+5. FOLLOW-UP:
+   - Cardiology appointment: within 3 days
+   - Follow-up visit in clinic: 1 week after angiography results
+   - Diabetic education referral for improved glucose management
+
+PHYSICIAN NOTES:
+Patient demonstrates good understanding of his conditions and is motivated to improve. Emphasized importance of medication compliance and lifestyle modifications. Discussed risks of untreated coronary disease. Patient verbalized understanding. Wife present and participated in discussion. Provided written discharge instructions and medication list. Contact numbers provided for urgent concerns.
+
+Electronic signature: Dr. Robert Chen, MD
+Date/Time: 2024-06-18 14:47 EST

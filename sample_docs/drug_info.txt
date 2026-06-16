@@ -1,0 +1,122 @@
+DRUG INFORMATION SHEET - ATORVASTATIN
+
+DRUG NAME:
+Atorvastatin Calcium (Brand name: Lipitor)
+
+DRUG CLASS:
+HMG-CoA Reductase Inhibitor (Statin)
+
+INDICATION:
+Atorvastatin is used to reduce the risk of heart disease and stroke in patients with high cholesterol. It is also used to treat high cholesterol and triglycerides. Atorvastatin works by blocking an enzyme necessary for cholesterol production in the body.
+
+DOSAGE AND ADMINISTRATION:
+Standard dosing:
+- Starting dose: 10 mg once daily
+- Usual maintenance: 10-20 mg once daily
+- Maximum dose: 80 mg once daily
+- For patients with acute coronary syndrome or those at high risk: 40-80 mg daily is often recommended
+
+Administration:
+- Take once daily with or without food
+- Best taken in the evening (cholesterol production peaks at night)
+- Swallow tablet whole with water
+- Consistent timing recommended for optimal efficacy
+
+MECHANISM OF ACTION:
+Atorvastatin inhibits HMG-CoA reductase, the rate-limiting enzyme in cholesterol synthesis. By blocking this enzyme, the drug reduces hepatic cholesterol production and increases LDL receptor expression, resulting in:
+- Decreased LDL cholesterol ("bad" cholesterol) - primary effect
+- Modest reduction in triglycerides (10-30%)
+- Modest increase in HDL cholesterol ("good" cholesterol) - 3-9%
+- Overall reduction in cardiovascular risk through plaque stabilization
+
+CONTRAINDICATIONS:
+Absolute contraindications:
+- Pregnancy and lactation (teratogenic risk)
+- Active liver disease or unexplained elevation of liver enzymes (>3x upper limit of normal)
+- Hypersensitivity to atorvastatin or any component of the formulation
+
+Relative contraindications:
+- Renal impairment (dose adjustment may be necessary)
+- History of muscle disorders
+- Heavy alcohol consumption
+- Severe concurrent illness
+
+WARNINGS AND PRECAUTIONS:
+1. HEPATIC EFFECTS: Monitor liver function tests before initiating therapy and as clinically indicated. LFTs recommended at baseline and within 12 weeks of initiation or dose change. Discontinue if ALT >3x ULN.
+
+2. MUSCLE-RELATED EFFECTS: Risk of myopathy and rhabdomyolysis, especially when combined with certain medications. Higher risk with doses ≥80mg daily. Educate patients on warning signs: unexplained muscle pain, weakness, or brown-colored urine.
+
+3. DRUG INTERACTIONS:
+   - Contraindicated with: Strong CYP3A4 inhibitors (protease inhibitors, ketoconazole, telithromycin)
+   - Use with caution with: Clarithromycin, erythromycin, azithromycin (increased myopathy risk)
+   - Increased concentration with: Cyclosporine, danazol, gemfibrozil (reduce atorvastatin dose)
+   - Potentiates effect of: Warfarin and other vitamin K antagonists (monitor INR)
+
+4. RENAL IMPAIRMENT: Use with caution; dose adjustment typically not necessary unless severe impairment.
+
+5. THYROID DISEASE: May raise TSH levels; monitor thyroid function if patient has hypothyroidism.
+
+SIDE EFFECTS:
+
+Common side effects (incidence >1%):
+- Nasopharyngitis (inflammation of nasal passages)
+- Arthralgia (joint pain)
+- Diarrhea
+- Dyspepsia (indigestion)
+- Abdominal pain
+- Insomnia
+- Headache
+- Nausea
+
+Serious/Less common side effects (0.1-1%):
+- Myalgia (muscle pain) - incidence 3-5%
+- Elevated liver enzymes (ALT/AST elevation)
+- Myopathy (muscle disease) - incidence 0.1-1%
+- Rhabdomyolysis - incidence <0.01% (life-threatening muscle breakdown)
+- Peripheral neuropathy
+- Cognitive changes (memory problems, confusion)
+- Angioedema
+- Anaphylaxis
+
+Very rare but serious:
+- Stevens-Johnson Syndrome
+- Toxic Epidermal Necrolysis
+- Interstitial lung disease
+
+PATIENT EDUCATION:
+1. Take exactly as prescribed; do not stop without consulting physician
+2. Report unexplained muscle pain, weakness, or dark urine immediately
+3. Maintain regular follow-up appointments for liver function monitoring
+4. Avoid grapefruit and grapefruit juice (increases drug concentration)
+5. Heavy alcohol consumption may increase risk of liver problems
+6. Can be taken with or without food, preferably at same time each day
+7. Lifestyle modifications essential: diet, exercise, weight management, no smoking
+8. May take 4-6 weeks to see full cholesterol-lowering effect
+9. Drug does NOT cure high cholesterol; it helps manage it
+10. Inform all healthcare providers of atorvastatin use before starting new medications
+
+PREGNANCY AND LACTATION:
+Contraindicated in pregnancy (Category X) - causes developmental abnormalities
+Contraindicated in lactation - drug passes into breast milk
+Women of childbearing age should use effective contraception
+
+OVERDOSE:
+No specific antidote exists. Management is symptomatic and supportive. Possible symptoms: myalgia, elevated liver enzymes. Monitor liver function and muscle enzymes. Contact Poison Control or emergency services.
+
+STORAGE AND HANDLING:
+- Store at room temperature (20-25°C / 68-77°F)
+- Protect from light and moisture
+- Keep in original container
+- Keep out of reach of children
+- Do not dispose in wastewater; use proper medication disposal program
+
+EFFECTIVENESS DATA:
+Clinical trials demonstrate:
+- 39-54% reduction in LDL cholesterol at 10mg dose
+- 50-60% reduction in LDL cholesterol at 40mg dose
+- 60-70% reduction in LDL cholesterol at 80mg dose
+- 30-40% reduction in cardiovascular events in high-risk patients over 2-5 years
+- Significant reduction in myocardial infarction and stroke risk in secondary prevention settings
+
+Last Updated: 2024-06-15
+Prepared by: Clinical Pharmacy Division
